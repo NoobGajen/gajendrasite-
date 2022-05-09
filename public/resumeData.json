@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name": "Gajendra Mahato",
+    "occupation": "Student",
+    "description": "I love to use Linux and I also make video on YouTube, If You like my works then you can follow my on Social Media which link are given below",
+    "image": "profilepic.jpg",
+    "bio": "I am not a professional level in this field. So, if you find any mistake in my work then please remind me to solve that mistake. And thank you for supporting and inspiring me in my journey to reach a better community on Youtube, Facebook, and many more",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "sudogajendra@gmail.com",
+    "phone": "+977 9816867027",
+    "address": {
+      "street": "Janakpur",
+      "city": "Barahathawa",
+      "state": "05",
+      "zip": "45810"
+    },
+    "website": "http://gajendramahato.com.np/",
+    "resumedownload": "https://github.com/NoobGajen",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/NoobGajen",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "YouTube",
+        "url": "http://youtube.com/NoobGajen",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/NoobGajen",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/NoobGajen/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/NoobGajen",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/NoobGajen",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a student and i am still learning ",
+    "education": [
+      {
+        "school": "Shree Nav Jan Jagaran School",
+        "degree": "Still Learning",
+        "graduated": "going on",
+        "description": "Updating soon"
+      },
+      {
+        "school": "Shree Nav Jan Jagaran School",
+        "degree": "Still Learning",
+        "graduated": "going on",
+        "description": "Updating soon"
+      }
+    ],
+    "work": [
+      {
+        "company": "NoobGajen",
+        "title": "Penetration testing",
+        "years": "YYYY/MM/DD - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "http://gajendramahato.com.np/"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://gajendramahato.com.np/"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://gajendramahato.com.np/"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://gajendramahato.com.np/"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://gajendramahato.com.np/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Gajendra mahato must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
