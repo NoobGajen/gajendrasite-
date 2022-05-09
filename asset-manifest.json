@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.52eba9e7.chunk.css",
-  "main.js": "/static/js/main.318f7b43.chunk.js",
-  "main.js.map": "/static/js/main.318f7b43.chunk.js.map",
-  "static/js/1.247ee42e.chunk.js": "/static/js/1.247ee42e.chunk.js",
-  "static/js/1.247ee42e.chunk.js.map": "/static/js/1.247ee42e.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.52eba9e7.chunk.css.map": "/static/css/main.52eba9e7.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.77189a06a2fdb73991c01464a041afd8.js": "/precache-manifest.77189a06a2fdb73991c01464a041afd8.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/gajendrasite-/static/css/main.52eba9e7.chunk.css",
+  "main.js": "/gajendrasite-/static/js/main.5062fede.chunk.js",
+  "main.js.map": "/gajendrasite-/static/js/main.5062fede.chunk.js.map",
+  "static/js/1.247ee42e.chunk.js": "/gajendrasite-/static/js/1.247ee42e.chunk.js",
+  "static/js/1.247ee42e.chunk.js.map": "/gajendrasite-/static/js/1.247ee42e.chunk.js.map",
+  "runtime~main.js": "/gajendrasite-/static/js/runtime~main.83a3620c.js",
+  "runtime~main.js.map": "/gajendrasite-/static/js/runtime~main.83a3620c.js.map",
+  "static/css/main.52eba9e7.chunk.css.map": "/gajendrasite-/static/css/main.52eba9e7.chunk.css.map",
+  "index.html": "/gajendrasite-/index.html",
+  "precache-manifest.b27171b26093bd0cc40db6b0ebf3bb02.js": "/gajendrasite-/precache-manifest.b27171b26093bd0cc40db6b0ebf3bb02.js",
+  "service-worker.js": "/gajendrasite-/service-worker.js"
 }
